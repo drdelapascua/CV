@@ -137,8 +137,6 @@ Summer Undergraduate Research Fellowship for Rhode Island NSF EPSCoR (\$4200) \h
 
 # Professional Service
 
-Reviewer for textbook *Marine Community Ecology and Conservation, ed. 2*
-
 ## **Academic Organizations**
 
 Equity in Science, Technology, Engineering, Math, and Entrepreneurship, University of California, Davis
@@ -227,15 +225,26 @@ Published a This I Believe essay about salt marshes on Rhode Island National Pub
 
 ## **Selected Science Writing**
 
-What is the 'great nutrient collapse' and why haven't you heard about it?" Scientific American Blog. X December 2018. \href{https://www.XYZ/}{\tt $Link$ }
+Suglia, Elena. "What is the 'great nutrient collapse' and why haven't you heard about it?" Scientific American Blog. X December 2018. \href{https://www.XYZ/}{\tt $Link$ }
 
-“The Buzz on Bee Research at Fairview Farm.” Raritan Headwaters Association Newsletter. 29 October 2015. \href{https://www.raritanheadwaters.org/2015/10/29/the-buzz-on-bee-research-at-fairview-farm/}{\tt $Link$ }
+Suglia, Elena. “The Buzz on Bee Research at Fairview Farm.” Raritan Headwaters Association Newsletter. 29 October 2015. \href{https://www.raritanheadwaters.org/2015/10/29/the-buzz-on-bee-research-at-fairview-farm/}{\tt $Link$ }
 
-“Tardigrades: The tiny superheroes that have been to space.” Public Radio Exchange. 7 May 2015. \href{https://beta.prx.org/stories/148933}{\tt $Link$ }
+Suglia, Elena. “Tardigrades: The tiny superheroes that have been to space.” Public Radio Exchange. 7 May 2015. \href{https://beta.prx.org/stories/148933}{\tt $Link$ }
 
-“Robots may soon swarm the ocean floor searching for resources.” National Association of Science Writers. 18 February 2015. \href{https://www.nasw.org/article/robots-may-soon-swarm-ocean-floor-searching-resources}{\tt $Link$ }
+Suglia, Elena. “Robots may soon swarm the ocean floor searching for resources.” National Association of Science Writers. 18 February 2015. \href{https://www.nasw.org/article/robots-may-soon-swarm-ocean-floor-searching-resources}{\tt $Link$ }
 
-“Accidental greatness: How some of the world’s most famous discoveries started with mistakes.” The College Hill Independent. 14 November 2014. \href{http://www.theindy.org/450}{\tt $Link$ }
+Suglia, Elena. “Accidental greatness: How some of the world’s most famous discoveries started with mistakes.” The College Hill Independent. 14 November 2014. \href{http://www.theindy.org/450}{\tt $Link$ }
 
-“Long time, no see: Insect antiquity and small body size contribute to insect diversity.” Brown University Catalyst Magazine, Fall 2014 edition.
+Suglia, Elena. “Long time, no see: Insect antiquity and small body size contribute to insect diversity.” Brown University Catalyst Magazine, Fall 2014 edition.
+
+Suglia, Elena and Sinead Crotty. “Salt Marsh Die-off: Causes and Consequences.” Association of Massachusetts Wetlands Scientists Newsletter. July 2014.
+
+Suglia, Elena. “How do you teach a melting pot? Blend it up.” Brown University Behind the Science Newsletter. April 15, 2014. \href{http://blogs.brown.edu/behind-the-science/2014/04/21/how-do-you-teach-a-melting-pot-blend-it-up/}{\tt $Link$ }
+
+# Skills
+
+\begin{tabbing}
+\textit{Programming:} \= R (\textit{intermediate})\\ [1.5ex]
+\textit{Software:} \> JMP, MySQL, G*Power, SAS, Audacity, ImageJ, GIS, Microsoft Office \\ [1.5ex]
+\end{tabbing}
 
