@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Box Sync/Graduate School/Professional Development/CV-master/formatting.tex
+    template: ~/Box Sync/Graduate School/Professional Development/CV/formatting.tex
 geometry: margin=1in
 
 title: "CV"
@@ -27,7 +27,9 @@ urlcolor: blue
 ---
 # Education
 
-*University of California, Davis*, Ph.D. student, Population Biology, Adviser: Jennifer Gremer \hfill 2017-present
+*University of California, Davis*, Ph.D. student, Population Biology \hfill 2017-present
+
+*University of California, Davis*, M.Sc., Population Biology \hfill 2018
 
 *Brown University*, B.A. Biology with honors, 3.88 GPA \hfill 2015
 
@@ -37,7 +39,7 @@ Bertness, M.D., Brisson, C.P., Coverdale, T.C., Bevil, M.C., Crotty, S.M., and *
 
 Yajima, M., **Suglia, E.R.**, Gustafson, E.A., and G.M. Wessel. 2013. Meiotic gene expression initiates during larval development in the sea urchin. *Developmental Dynamics* 242(2):155-63. doi: 10.1002/dvdy.23904.
 
-# Research Experience
+# Research
 
 *PhD Student, Gremer Laboratory, University of California, Davis* \hfill 2017-present
 
@@ -71,6 +73,14 @@ USA Rugby All-Academic \hfill 2014
 
 # Funding
 
+Graduate Research Excellence Grant, Society for the Study of Evolution ($2500) \hfill 2019
+
+Davis Botanical Society Student Research Grant ($1500) \hfill 2019
+
+UC Davis Natural Reserve System Graduate Student Research Grant ($3000) \hfill 2019
+
+California Native Plant Society Education Grant ($600) \hfill 2018
+
 Center for Population Biology Research Award, UC Davis (\$1200) \hfill 2018
 
 Northern California Botanists Research Scholarship, CNPS Shasta Chapter (\$1000) \hfill 2018
@@ -92,13 +102,21 @@ Summer Undergraduate Research Fellowship for Rhode Island NSF EPSCoR (\$4200) \h
 \vspace{-3mm}
 *\* oral presentation, $\dagger$ poster presentation*
 
+J. Gremer, C. Wilcox, **E. Suglia**, A. Chiono, and J. Schmitt. Life history plasticity and adaptation in a changing climate. Joint Congress on Evolutionary Biology, Montpellier, France. \hfill 2018
+
+J. Gremer, C. Wilcox, A. Chiono, **E. Suglia**, and J. Schmitt. Life history contingency in a native wildflower, Streptanthus tortuosus: Mechanisms and fitness consequences. Ecological Society of America, New Orleans, LA and University of Michigan’s Green Life Symposium, Ann Arbor MI. \hfill 2018
+
+J. Gremer, C. Wilcox, **E. Suglia**, A. Chiono, and J. Schmitt. Mechanisms of life history variation and climate adaptation in a native wildflower. American Society of Naturalists, Pacific Grove, CA. \hfill 2018
+
+L. Okafor, **E. Suglia**, and J. Gremer. Understanding the life history of Streptanthus tortuosus through a thermal germination study. Evolution and Ecology Graduate Admissions Pathway Program Conference, Davis, CA. \hfill 2018
+
 **E. Suglia.** The impact of snowmelt on phenology and population genetics of *Streptanthus tortuosus*. Population Biology Graduate Group Student Symposium, Davis, CA.* \hfill 2017
 
 **E. Suglia,** M. Bertness, C. Brisson, T. Coverdale, M. Bevil, and S. Crotty. Experimental predator removal causes rapid salt marsh die-off. Benthics Ecology Meeting, Quebec City, Canada.* \hfill 2015
 
 **E. Suglia**, M. Yajima, E. Gustafson, and G. Wessel. Expression of Meiotic Genes and Proteins During Echinoderm Embryogenesis and Gametogenesis. Rhode Island SURF Conference, Kingston, RI. $\dagger$ \hfill 2012
 
-# Teaching Experience
+# Teaching
 
 *Teaching Assistant*, Introduction to Evolution, UC Davis \hfill Winter 2019
 
@@ -116,9 +134,9 @@ Summer Undergraduate Research Fellowship for Rhode Island NSF EPSCoR (\$4200) \h
 
 # Mentoring
 
-*Mentees*: Vanessa Bassinello, Helena Bayat, Lahari Indraganti, Gautum Mathur, Joaquin Meckler-Pacheco, Ryan Moore, Lauren Okafor, Noah Rosenberg, John Schroder
+*Mentees*: Vanessa Bassinello, Helena Bayat, Jasmine Curcio, Danielle Davisson, Hannah de la Calle, Lahari Indraganti, Gautum Mathur, Joaquin Meckler-Pacheco, Ryan Moore, Ylana Nguyen, Lauren Okafor, Noah Rosenberg, John Schroder
 
-**Mentored 9 undergraduates**, University of California, Davis \hfill 2016-present
+**Mentored 13 undergraduates**, University of California, Davis \hfill 2016-present
 
 > Summer research mentor for Evolution and Ecology Graduate Admissions Pathway program (LO), 2018
 
@@ -136,6 +154,8 @@ Summer Undergraduate Research Fellowship for Rhode Island NSF EPSCoR (\$4200) \h
 
 
 # Professional Service
+
+Ad Hoc Reviewer, PLOS ONE
 
 Reviewer for textbook *Marine Community Ecology and Conservation, ed. 2*
 
@@ -175,6 +195,10 @@ Introduction to R in GIS, University of California, Davis Data Science Initiativ
 
 ## **Teaching**
 
+Teaching Assistant Wellbeing Program, UC Davis Center for Educational Effectiveness & Student Health and Counseling Services \hfill 2019
+
+Creating Inclusive Learning Spaces Workshop Series, UC Davis Center for Educational Effectiveness \hfill 2019
+
 Fall Foundations in Teaching Workshop Series, UC Davis Center for Educational Effectiveness \hfill 2018
 
 Teaching Philosophy Workshop, UC Davis Center for Educational Effectiveness \hfill 2018
@@ -191,7 +215,7 @@ Foundations in LGBTQIA Allyship Training, UC Davis LGBTQIA Resource Center \hfil
 
 UndocuAlly Program for Educators, UC Davis AB540 and Undocumented Center \hfill 2017
 
-Graduate Diversity Orientation Program Extension Workshops, UC Davis \hfill 2017-2018
+Graduate Diversity Orientation Program Extension Workshop Series, UC Davis \hfill 2017-2018
 
 # Outreach & Community Service
 
@@ -209,13 +233,13 @@ Graduate Diversity Orientation Program Extension Workshops, UC Davis \hfill 2017
 
 *Volunteer*, Undergraduate Student Training in Academic Research, UC Davis \hfill 2018
 
-*Volunteer*, Picnic Day Tree of Life Exhibit, UC Davis \hfill 2018
+*Volunteer*, Picnic Day Tree of Life Exhibit, Planet Earth Award Winner 2019, UC Davis \hfill 2018-2019
 
 *Volunteer*, Family STEAM night, Barrett Middle School, Carmichael, CA \hfill 2017
 
 # Science Communication | Writing Portfolio: \href{https://elenasuglia.journoportfolio.com/}{\tt $elenasuglia.journoportfolio.com$ } 
 
-Contributing writer and editor, NPR's "Friends of Joe's Big Idea" SciComm group \hfill 2017-present
+Contributing writer and editor, National Public Radio SciCommers \hfill 2017-present
 
 SciComm Workshop Series, Scholars Promoting Education Awareness and Knowledge, UC Davis \hfill 2017
 
@@ -227,15 +251,13 @@ Published a This I Believe essay about salt marshes on Rhode Island National Pub
 
 ## **Selected Science Writing**
 
-What is the 'great nutrient collapse' and why haven't you heard about it?" Scientific American Blog. X December 2018. \href{https://www.XYZ/}{\tt $Link$ }
+"Climate change once heated the oceans and caused 'The Great Dying.'" Massive Science. 25 February 2019. \href{https://massivesci.com/articles/climate-change-great-dying-oceans-fish-extinction/}{\tt $Link$}
+
+"Vanishing Nutrients." Scientific American Blog. 10 December 2018. \href{https://blogs.scientificamerican.com/observations/vanishing-nutrients/}{\tt $Link$ }
 
 “The Buzz on Bee Research at Fairview Farm.” Raritan Headwaters Association Newsletter. 29 October 2015. \href{https://www.raritanheadwaters.org/2015/10/29/the-buzz-on-bee-research-at-fairview-farm/}{\tt $Link$ }
 
 “Tardigrades: The tiny superheroes that have been to space.” Public Radio Exchange. 7 May 2015. \href{https://beta.prx.org/stories/148933}{\tt $Link$ }
 
 “Robots may soon swarm the ocean floor searching for resources.” National Association of Science Writers. 18 February 2015. \href{https://www.nasw.org/article/robots-may-soon-swarm-ocean-floor-searching-resources}{\tt $Link$ }
-
-“Accidental greatness: How some of the world’s most famous discoveries started with mistakes.” The College Hill Independent. 14 November 2014. \href{http://www.theindy.org/450}{\tt $Link$ }
-
-“Long time, no see: Insect antiquity and small body size contribute to insect diversity.” Brown University Catalyst Magazine, Fall 2014 edition.
 
