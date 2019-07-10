@@ -35,11 +35,11 @@ urlcolor: blue
 
 # Publications
 
-Gremer, J.R., Wilcox, C.J., Chiono, A., **Suglia, E.** and J. Schmitt (*in press*). 2019. Germination timing and chilling exposure create contingency in life history and influence fitness in the native wildflower *Streptanthus tortuosus.* *Journal of Ecology.*
+Gremer, J.R., Wilcox, C.J., Chiono, A., **Suglia, E.** and J. Schmitt. *In press.* 2019. Germination timing and chilling exposure create contingency in life history and influence fitness in the native wildflower *Streptanthus tortuosus.* *Journal of Ecology* doi: 10.1111/1365‐2745.13241.
 
-Bertness, M.D., Brisson, C.P., Coverdale, T.C., Bevil, M.C., Crotty, S.M., and **E.R. Suglia.** 2014. Experimental predator removal causes rapid salt marsh die-off. *Ecology Letters* doi: 10.1111/ele.12287.
+Bertness, M.D., Brisson, C.P., Coverdale, T.C., Bevil, M.C., Crotty, S.M., and **E.R. Suglia.** 2014. Experimental predator removal causes rapid salt marsh die-off. *Ecology Letters* 17(7):830-835 doi: 10.1111/ele.12287.
 
-Yajima, M., **Suglia, E.R.**, Gustafson, E.A., and G.M. Wessel. 2013. Meiotic gene expression initiates during larval development in the sea urchin. *Developmental Dynamics* 242(2):155-63. doi: 10.1002/dvdy.23904.
+Yajima, M., **Suglia, E.R.**, Gustafson, E.A., and G.M. Wessel. 2013. Meiotic gene expression initiates during larval development in the sea urchin. *Developmental Dynamics* 242(2):155-63 doi: 10.1002/dvdy.23904.
 
 # Research
 
