@@ -35,6 +35,8 @@ urlcolor: blue
 
 # Publications
 
+Gremer, J.R., Chiono, A., **Suglia, E.**, Bontrager, M., Okafor, L. and J. Schmitt. *In press.* Variation in the seasonal germination niche across an elevational gradient: The role of germination cueing in current and future climates. *American Journal of Botany*.
+
 Gremer, J.R., Wilcox, C.J., Chiono, A., **Suglia, E.** and J. Schmitt. *In press.* 2019. Germination timing and chilling exposure create contingency in life history and influence fitness in the native wildflower *Streptanthus tortuosus.* *Journal of Ecology* doi: 10.1111/1365‐2745.13241.
 
 Bertness, M.D., Brisson, C.P., Coverdale, T.C., Bevil, M.C., Crotty, S.M., and **E.R. Suglia.** 2014. Experimental predator removal causes rapid salt marsh die-off. *Ecology Letters* 17(7):830-835 doi: 10.1111/ele.12287.
@@ -136,9 +138,11 @@ L. Okafor, **E. Suglia**, and J. Gremer. Understanding the life history of Strep
 
 # Mentoring
 
-*Mentees*: Vanessa Bassinello, Helena Bayat, Jasmine Curcio, Danielle Davisson, Hannah de la Calle, Lahari Indraganti, Gautum Mathur, Joaquin Meckler-Pacheco, Ryan Moore, Ylana Nguyen, Lauren Okafor, Noah Rosenberg, John Schroder
+**Peer Mentor**, Population Biology Graduate Group, UC Davis \hfill 2019-present
 
 **Mentored 13 undergraduates**, University of California, Davis \hfill 2016-present
+
+*Mentees*: Vanessa Bassinello, Helena Bayat, Jasmine Curcio, Danielle Davisson, Hannah de la Calle, Lahari Indraganti, Gautum Mathur, Joaquin Meckler-Pacheco, Ryan Moore, Ylana Nguyen, Lauren Okafor, Noah Rosenberg, John Schroder
 
 > Summer research mentor for Evolution and Ecology Graduate Admissions Pathway program (LO), 2018
 
