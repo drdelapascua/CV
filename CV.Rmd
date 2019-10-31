@@ -267,3 +267,10 @@ Published a This I Believe essay about salt marshes on Rhode Island National Pub
 
 “Robots may soon swarm the ocean floor searching for resources.” National Association of Science Writers. 18 February 2015. \href{https://www.nasw.org/article/robots-may-soon-swarm-ocean-floor-searching-resources}{\tt $Link$ }
 
+# Skills
+
+\begin{tabbing}
+\textit{Programming:} \= R, Unix, JAGS, Stan, MySQL  \\ [1.5ex]
+\textit{Software:} \> JMP, ImageJ, G*Power, SAS, Estimate S, Microsoft Office, Adobe Illustrator, Procreate \\ [1.5ex]
+\end{tabbing}
+
