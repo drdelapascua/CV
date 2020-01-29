@@ -6,15 +6,15 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: Elena R. Suglia
+author: Danielle Ria De La Pascua
 #orcid: "orcid.org/0000-0002-9577-6885"
 jobtitle: "Center for Population Biology · University of California, Davis"
 address: "2320 Storer Hall, Davis, CA 95616"
 fontawesome: yes
-email: esuglia@ucdavis.edu
-#github: elena suglia?
+email: drdelapascua@ucdavis.edu
+github: drdelapascua
 #phone: "+1 555 5555"
-web: 'elenasuglia.com'
+#web: 
 updated: no
 
 keywords: RMarkdown, academic CV, template
@@ -25,252 +25,79 @@ fontsize: 10pt
 linkcolor: blue
 urlcolor: blue
 ---
+
 # Education
 
-*University of California, Davis*, Ph.D. student, Population Biology \hfill 2017-present
+*University of California, Davis*, Ph.D. student, Population Biology \hfill 2019-present
 
-*University of California, Davis*, M.Sc., Population Biology \hfill 2018
+*University of Central Florida*, B.S. Biology with honors in the major, 3.76 GPA \hfill 2019
 
-*Brown University*, B.A. Biology with honors, 3.88 GPA \hfill 2015
 
 # Publications
 
-Gremer, J.R., Chiono, A., **Suglia, E.**, Bontrager, M., Okafor, L. and J. Schmitt. *In press.* Variation in the seasonal germination niche across an elevational gradient: The role of germination cueing in current and future climates. *American Journal of Botany*.
+**De La Pascua, D. R.**, C. Smith-Winterscheidt, J. A. Dowell, E. W. Goolsby, C. M. Mason. in review. Evolutionary trade-offs in the chemical defense of floral and fruit tissues across genus *Cornus*. *American Journal of Botany*
 
-Gremer, J.R., Wilcox, C.J., Chiono, A., **Suglia, E.** and J. Schmitt. *In press.* 2019. Germination timing and chilling exposure create contingency in life history and influence fitness in the native wildflower *Streptanthus tortuosus.* *Journal of Ecology* doi: 10.1111/1365‐2745.13241.
+Mason, C. M., M. C. LaScaleia, **D. R. De La Pascua**, J. G. Monroe, and E. W. Goolsby. 2020. Learning from Dynamic Traits: Seasonal Shifts Yield Insights into Ecophysiological Trade-Offs across Scales from Macroevolutionary to Intraindividual. *International Journal of Plant Sciences* 181: 88-102.
 
-Bertness, M.D., Brisson, C.P., Coverdale, T.C., Bevil, M.C., Crotty, S.M., and **E.R. Suglia.** 2014. Experimental predator removal causes rapid salt marsh die-off. *Ecology Letters* 17(7):830-835 doi: 10.1111/ele.12287.
-
-Yajima, M., **Suglia, E.R.**, Gustafson, E.A., and G.M. Wessel. 2013. Meiotic gene expression initiates during larval development in the sea urchin. *Developmental Dynamics* 242(2):155-63 doi: 10.1002/dvdy.23904.
 
 # Research
 
-*PhD Student, Gremer Laboratory, University of California, Davis* \hfill 2017-present
+*PhD Student, Gremer Laboratory, University of California, Davis* \hfill 2019-present
 
-> Studying plant responses to climate change using a combination of field, genomics, and modeling approaches. Specifically, investigating the effects of snowmelt timing on phenology and gene flow in several populations of the native California plant *Streptanthus tortuosus* at Lassen Volcanic National Park.
+> Researching plant defense and life history strategy evolutionary responses to climate gradients and environmental variation using phylogenetic analytical techniques.
 
-*Research Assistant, Schmitt Laboratory, University of California, Davis* \hfill 2016-2017
+*Undergraduate Research Assistant, Mason Laboratory, University of Central Florida* \hfill 2017-2019
 
-> Studied life history variation and local adaptation in the plant *Streptanthus tortuosus* across elevational and latitudinal clines in the context of its ability to adapt to climate change.
+> Collected trait data of dry *Cornus* fruit and floral samples from a common garden setting using phytochemical assays and conducted data analysis on fruit and floral defense, fruit nutritional content, and natural environmental traits using phylogenetical comparative methods.
 
-
-*Research Assistant, Winfree Laboratory, Rutgers University* \hfill 2015
-
-> Conducted field work determining the effectiveness of pollinator habitat restoration strategies on native bees. Identified New Jersey bees and plants to species and curated insect and plant collections. Measured bee and floral traits to quantify trait matching.
-
-
-*Research Assistant, Bertness Laboratory, Brown University* \hfill 2013-2015
-
-> Performed field experiments in Cape Cod salt marshes demonstrating that recreational overfishing triggers a trophic cascade that leads to salt marsh die-off.
-
-*Research Assistant, Wessel Laboratory, Brown University* \hfill 2013
-
-> Studied expression of meiotic genes and proteins during echinoderm embryogenesis and gametogenesis. Designed and performed independent study researching possible splicing event in echinoderm meiotic gene dmc1.
 
 # Academic Honors & Awards
 
-Dean Marjorie Thompson Senior Prize in Biology, Brown University \hfill 2015
+University of Central Florida Honors in the Major \hfill 2019
 
-Sigma XI Scientific Research Honor Society \hfill 2015
+Showcase of Undergraduate Research Excellence Judge's Choice Award \hfill 2018
 
-USA Rugby All-Academic \hfill 2014
+Plants Beyond Limits 1st Place Undergraduate Poster \hfill 2017
 
-# Funding
+University of Central Florida Honors College Member \hfill 2015-2019
 
-Graduate Research Excellence Grant, Society for the Study of Evolution ($2500) \hfill 2019
-
-Davis Botanical Society Student Research Grant ($1500) \hfill 2019
-
-UC Davis Natural Reserve System Graduate Student Research Grant ($3000) \hfill 2019
-
-California Native Plant Society Education Grant ($600) \hfill 2018
-
-Center for Population Biology Research Award, UC Davis (\$1200) \hfill 2018
-
-Northern California Botanists Research Scholarship, CNPS Shasta Chapter (\$1000) \hfill 2018
-
-Sharon Gray Memorial Award to fund mentorship activities, UC Davis (\$1000) \hfill 2017
-
-NSF Graduate Research Fellowship Program Award (\$138,000) \hfill 2017
-
-National Association of Science Writers Travel Fellowship to attend AAAS meeting (\$1500) \hfill 2015
-
-Voss Environmental Fellowship, Brown University (\$3500) \hfill 2014
-
-Undergraduate Teaching and Research Award, Brown University (\$3500) \hfill 2013
-  
-Summer Undergraduate Research Fellowship for Rhode Island NSF EPSCoR (\$4200) \hfill 2012
 
 # Presentations
 
 \vspace{-3mm}
 *\* oral presentation, $\dagger$ poster presentation*
 
-J. Gremer, C. Wilcox, **E. Suglia**, A. Chiono, and J. Schmitt. Life history plasticity and adaptation in a changing climate. Joint Congress on Evolutionary Biology, Montpellier, France. \hfill 2018
-
-J. Gremer, C. Wilcox, A. Chiono, **E. Suglia**, and J. Schmitt. Life history contingency in a native wildflower, Streptanthus tortuosus: Mechanisms and fitness consequences. Ecological Society of America, New Orleans, LA and University of Michigan’s Green Life Symposium, Ann Arbor MI. \hfill 2018
-
-J. Gremer, C. Wilcox, **E. Suglia**, A. Chiono, and J. Schmitt. Mechanisms of life history variation and climate adaptation in a native wildflower. American Society of Naturalists, Pacific Grove, CA. \hfill 2018
-
-L. Okafor, **E. Suglia**, and J. Gremer. Understanding the life history of Streptanthus tortuosus through a thermal germination study. Evolution and Ecology Graduate Admissions Pathway Program Conference, Davis, CA. \hfill 2018
-
-**E. Suglia.** The impact of snowmelt on phenology and population genetics of *Streptanthus tortuosus*. Population Biology Graduate Group Student Symposium, Davis, CA.* \hfill 2017
-
-**E. Suglia,** M. Bertness, C. Brisson, T. Coverdale, M. Bevil, and S. Crotty. Experimental predator removal causes rapid salt marsh die-off. Benthics Ecology Meeting, Quebec City, Canada.* \hfill 2015
-
-**E. Suglia**, M. Yajima, E. Gustafson, and G. Wessel. Expression of Meiotic Genes and Proteins During Echinoderm Embryogenesis and Gametogenesis. Rhode Island SURF Conference, Kingston, RI. $\dagger$ \hfill 2012
 
 # Teaching
 
-*Teaching Assistant*, Introduction to Evolution, UC Davis \hfill Winter 2019
+*Undergraduate Teaching Assistant*, Biology 2 Laboratory, University of Central Florida \hfill Spring 2019
 
-*Teaching Assistant*, Ecology and Evolution of Animal-Plant Interactions, UC Davis \hfill Fall 2018
+*Tutor*, STEM undergraduate courses, University of Central Florida \hfill 2017-2019
 
-*Teaching Assistant*, Principles of Ecology, Brown University \hfill Spring 2014, Spring 2015 
-
-*Teaching Assistant*, Statistical Analysis of Biological Data, Brown University \hfill Spring 2015
-
-*Teaching Assistant*, Environmental Scholarship and Communication, Brown University \hfill Spring 2015
-
-*Teaching Assistant*, Coastal Ecology and Conservation, Brown University \hfill Fall 2015
-
-*Democracy Coach*, Generation Citizen, Brown University \hfill Fall 2012
-
-# Mentoring
-
-**Peer Mentor**, Population Biology Graduate Group, UC Davis \hfill 2019-present
-
-**Mentored 13 undergraduates**, University of California, Davis \hfill 2016-present
-
-*Mentees*: Vanessa Bassinello, Helena Bayat, Jasmine Curcio, Danielle Davisson, Hannah de la Calle, Lahari Indraganti, Gautum Mathur, Joaquin Meckler-Pacheco, Ryan Moore, Ylana Nguyen, Lauren Okafor, Noah Rosenberg, John Schroder
-
-> Summer research mentor for Evolution and Ecology Graduate Admissions Pathway program (LO), 2018
-
-> Sharon Gray Memorial Award Mentor (LI), 2018. Accompanied mentee to California Native Plant Society 2018 Conservation Conference and Jepson Herbarium Introduction to Lichens Workshop
-
-> Research Mentor for HB, JM, LI, LO. Assisted with project design, analytical approach, and poster presentation (HB, JM, LO); guided literature review, held weekly check-ins, oversaw research activities (HB, LI, LO)
-
-> Aided in applications for jobs and fellowships, navigating degree and GPA, cover letter and resume writing (HB, JM); provided professional development advice and resources (HB, LI, JM, RM)
-
-> Designed and ran a cover letter and resume writing workshop for two quarters
-
-> Led scientific paper discussion group for three quarters
-
-> Designed and taught introductory R programming workshops for two quarters
-
-
-# Professional Service
-
-Ad Hoc Reviewer, PLOS ONE
-
-Reviewer for textbook *Marine Community Ecology and Conservation, ed. 2*
-
-## **Academic Organizations**
-
-Equity in Science, Technology, Engineering, Math, and Entrepreneurship, University of California, Davis
-
-> *Outreach Committee Member* (2017-present), https://esteme.weebly.com/
-
-Women in Life Sciences at Davis, University of California, Davis
-
-> *Administrator* (2018-present), https://wild.ucdavis.edu/
-
-## **Professional Membership**
-
-Ecological Society of America (Science Communication Section, Plant Population Ecology Section)
-
-California Native Plant Society (Shasta Chapter, Mount Lassen Chapter)
-
-Botanical Society of America (Ecological Section)
-
-Davis Botanical Society (Center for Plant Diversity, University of California, Davis)
-
-Society for the Study of Evolution
-
-Friends of the Jepson Herbarium
-
-Society for Herbarium Curators
-
-National Association of Science Writers
-
-# Professional Development
-
-## **Research**
-
-Introduction to R in GIS, University of California, Davis Data Science Initiative \hfill 2018
-
-## **Teaching**
-
-Teaching Assistant Wellbeing Program, UC Davis Center for Educational Effectiveness & Student Health and Counseling Services \hfill 2019
-
-Creating Inclusive Learning Spaces Workshop Series, UC Davis Center for Educational Effectiveness \hfill 2019
-
-Fall Foundations in Teaching Workshop Series, UC Davis Center for Educational Effectiveness \hfill 2018
-
-Teaching Philosophy Workshop, UC Davis Center for Educational Effectiveness \hfill 2018
-
-Diversity Statement Workshop, UC Davis Center for Educational Effectiveness \hfill 2018
-
-## **Diversity & Inclusion** 
-
-Strengths Based Leadership Training for Diversity and Inclusion, UC Davis \hfill 2018
-
-Diversity 102 Workshop, GradPathways, UC Davis Graduate Studies \hfill 2018
-
-Foundations in LGBTQIA Allyship Training, UC Davis LGBTQIA Resource Center \hfill 2018
-
-UndocuAlly Program for Educators, UC Davis AB540 and Undocumented Center \hfill 2017
-
-Graduate Diversity Orientation Program Extension Workshop Series, UC Davis \hfill 2017-2018
 
 # Outreach & Community Service
 
-*Student Representative*, Population Biology Graduate Group Steering Committee, UC Davis \hfill 2018-2019
+*Chair*, Population Biology Graduate Student Workshop Organizational Committee, UC Davis \hfill 2020
 
-*Member*, Population Biology Graduate Group Diversity Committee, UC Davis \hfill 2018-present
+*Visitor Coordinator*, Ecology and Evolution Graduate Student Preview Day, UC Davis \hfill 2020
 
-*Steering Committee Member*, Graduates for Inclusion, Diversity, and Equity, UC Davis \hfill 2017-present
+*Member*, Population Biology Graduate Group Diversity Committee, UC Davis \hfill 2019-present
 
-*Volunteer*, STEM Squad, Winters Middle School, Winters, CA \hfill 2017-present
+> https://cpb.ucdavis.edu/population-biology-diversity-committee
+
+*Member*, Equity in Science, Technology, Engineering, Math, and Entrepreneurship, UC Davis \hfill 2019-2020
+
+> https://esteme.weebly.com
+
+*Volunteer*, STEM Squad, Holy Rosary Catholic School, Woodland, CA and Winters Middle School, Winters, CA \hfill 2019-present
 
 >  https://estemestemsquad.weebly.com/ 
 
-*Volunteer*, Roundtable Discussion, Holistic U Graduate Diversity Orientation, UC Davis \hfill 2018
-
-*Volunteer*, Undergraduate Student Training in Academic Research, UC Davis \hfill 2018
-
-*Volunteer*, Picnic Day Tree of Life Exhibit, Planet Earth Award Winner 2019, UC Davis \hfill 2018-2019
-
-*Volunteer*, Family STEAM night, Barrett Middle School, Carmichael, CA \hfill 2017
-
-# Science Communication | Writing Portfolio: \href{https://elenasuglia.journoportfolio.com/}{\tt $elenasuglia.journoportfolio.com$ } 
-
-Contributing writer and editor, National Public Radio SciCommers \hfill 2017-present
-
-SciComm Workshop Series, Scholars Promoting Education Awareness and Knowledge, UC Davis \hfill 2017
-
-Lead public Pollinator Walks in New Jersey discussing native bee diversity and conservation \hfill 2015
-
-Organized and led 3-day Science Communication Colloquium, Brown University \hfill 2015
-
-Published a This I Believe essay about salt marshes on Rhode Island National Public Radio \hfill 2015
-
-## **Selected Science Writing**
-
-"Climate change once heated the oceans and caused 'The Great Dying.'" Massive Science. 25 February 2019. \href{https://massivesci.com/articles/climate-change-great-dying-oceans-fish-extinction/}{\tt $Link$}
-
-"Vanishing Nutrients." Scientific American Blog. 10 December 2018. \href{https://blogs.scientificamerican.com/observations/vanishing-nutrients/}{\tt $Link$ }
-
-“The Buzz on Bee Research at Fairview Farm.” Raritan Headwaters Association Newsletter. 29 October 2015. \href{https://www.raritanheadwaters.org/2015/10/29/the-buzz-on-bee-research-at-fairview-farm/}{\tt $Link$ }
-
-“Tardigrades: The tiny superheroes that have been to space.” Public Radio Exchange. 7 May 2015. \href{https://beta.prx.org/stories/148933}{\tt $Link$ }
-
-“Robots may soon swarm the ocean floor searching for resources.” National Association of Science Writers. 18 February 2015. \href{https://www.nasw.org/article/robots-may-soon-swarm-ocean-floor-searching-resources}{\tt $Link$ }
 
 # Skills
 
 \begin{tabbing}
-\textit{Programming:} \= R, Unix, JAGS, Stan, MySQL  \\ [1.5ex]
-\textit{Software:} \> JMP, ImageJ, G*Power, SAS, Estimate S, Microsoft Office, Adobe Illustrator, Procreate \\ [1.5ex]
+\textit{Programming:} \= R, RevBayes, Unix, JAGS, Stan  \\ [1.5ex]
+\textit{Software:} \> JMP, ImageJ, Microsoft Office, Adobe Illustrator, Adobe Photoshop \\ [1.5ex]
 \end{tabbing}
 
